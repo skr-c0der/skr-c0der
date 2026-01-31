@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%">
 </div>
 
-# 👋 Hello, I'm Soumya Roy (skr-c0der)
+# 👋 Hello, I'm Sumit Kumar Routh(skr-c0der)
 
 ### 🚀 Full Stack Developer | MERN Stack & Next.js Expert | SEO Specialist
 
@@ -51,9 +51,9 @@ I am a passionate Full Stack Developer focused on building high-performance, sca
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Soumya Roy](https://www.linkedin.com/in/connectsoumyaroy/)
-- **Portfolio**: [Click to view my portfolio](https://connectsoumyaroy.github.io/) (Placeholder - Update if needed)
-- **Email**: [skr.c0der@gmail.com](mailto:skr.c0der@gmail.com)
+- **LinkedIn**: [Sumit Routh](https://www.linkedin.com/in/sumit-routh-2a05b3215/)
+- **Portfolio**: [Click to view my portfolio](https://sumit9088.vercel.app/) (Placeholder - Update if needed)
+- **Email**: [sumitkumar90888449734@gmail.com](mailto:sumitkumar90888449734@gmail.com)
 
 ---
 
